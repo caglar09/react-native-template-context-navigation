@@ -1,0 +1,18 @@
+{
+	"name": "react-native-template-context-navigation",
+	"version": "0.0.1",
+	"description": "This template is the folder structure created for react-native.",
+	"keywords": [
+		"template",
+		"react-native",
+		"template",
+		"starter",
+		"kit"
+	],
+	"files": [
+		"template",
+		"template.config.js"
+	],
+	"author": "Caglar YILDIRIM",
+	"license": "MIT"
+}
